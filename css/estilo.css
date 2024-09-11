@@ -1,3 +1,64 @@
 body{
-    background-color: blueviolet;
+    font-family: "SUSE", sans-serif;
+    background-color:MidnightBlue;     
+    color: white;
+        
 }
+header {
+    padding: 10px;
+    text-align: right;
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-link:hover{
+    color: rgb(98, 190, 160);
+}
+
+.nav{
+    background-color:MidnightBlue;    
+    /*background-color: rgb(190, 209, 233) ;*/
+    color: white;
+}
+
+.nav-item{
+    margin-right: 10px;
+}
+
+
+.ola{
+    font-size: 50px;
+}
+
+.bem_vindo{
+    font-size: 20px;
+}
+
+.textos_cmc{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+
+.card{
+    margin-top: 50px;
+    margin-left: 170px;
+    color: rgb(190, 209, 233);
+    background-color:MidnightBlue;   
+}
+
+.card-title{
+    margin-top: 20%;
+    font-size: 70px;
+}
+
+.card-text{
+    font-size: 20px ;
+}
+.content {
+    padding: 20px;
+  
+}
+
+
