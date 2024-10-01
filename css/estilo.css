@@ -1,6 +1,6 @@
 body{
     font-family: "SUSE", sans-serif;
-    background-color:MidnightBlue;     
+   background-color: white;     
     color: white;
         
 }
@@ -9,9 +9,6 @@ header {
     text-align: right;
 }
 
-.nav-link{
-    color: black;
-}
 
 .nav-link:hover{
     color: rgb(98, 190, 160);
@@ -36,16 +33,12 @@ header {
     font-size: 20px;
 }
 
-.textos_cmc{
-    margin-left: 100px;
-    margin-top: 200px;
-}
-
 .card{
-    margin-top: 50px;
-    margin-left: 170px;
+    margin-right: 10%;
+    margin-left: 10%;
     color: rgb(190, 209, 233);
-    background-color:MidnightBlue;   
+    background-color:MidnightBlue;
+    height: 500px; 
 }
 
 .card-title{
@@ -54,11 +47,34 @@ header {
 }
 
 .card-text{
-    font-size: 20px ;
+    font-size: 50px ;
 }
 .content {
     padding: 20px;
   
 }
-
+.anticlt{
+    margin-bottom:2% ;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 100%;
+    height: 90%;
+}
+.sobre_mim{
+    font-size: 18px;
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: black;
+}
+.socioemocionais{
+    font-size: 18px;
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: black;
+}
 
